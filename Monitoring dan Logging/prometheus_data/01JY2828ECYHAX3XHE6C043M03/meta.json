@@ -1,0 +1,17 @@
+{
+	"ulid": "01JY2828ECYHAX3XHE6C043M03",
+	"minTime": 1750263943345,
+	"maxTime": 1750269600000,
+	"stats": {
+		"numSamples": 62105,
+		"numSeries": 76,
+		"numChunks": 512
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01JY2828ECYHAX3XHE6C043M03"
+		]
+	},
+	"version": 1
+}
